@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: b5fdedc9174762a4890204fd933f6b6b
+timeCreated: 1447436736
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: _M3_Anim_Data
+    100002: Arm1
+    100004: Arm2
+    100006: Arm3
+    100008: BoneMaster
+    100010: Box05
+    100012: Box06
+    100014: Box07
+    100016: Box10
+    100018: Box13
+    100020: Box14
+    100022: Box15
+    100024: Box16
+    100026: Box17
+    100028: CarriageDummy02
+    100030: //RootNode
+    100032: Catapult1
+    100034: Catapult2
+    100036: Catapult3
+    100038: Chest Ref
+    100040: Cylinder03
+    100042: Cylinder04
+    100044: Cylinder09
+    100046: Cylinder10
+    100048: Flag1
+    100050: Flag2
+    100052: Flag3a
+    100054: Foot Left Ref
+    100056: Foot Right Ref
+    100058: Hand Left Ref
+    100060: 'Hand Right Ref '
+    100062: Head Ref
+    100064: InnerTarp
+    100066: m3bone_root
+    100068: Object01
+    100070: Object02
+    100072: Object06
+    100074: 'Origin Ref '
+    100076: 'OverHead Ref '
+    100078: PortraitBackdrop
+    100080: Sprite First Ref
+    100082: Sprite Second Ref
+    100084: Sprite Third Ref
+    100086: Tarp
+    100088: tusk01
+    100090: tusk02
+    100092: Weapon Ref
+    400000: _M3_Anim_Data
+    400002: Arm1
+    400004: Arm2
+    400006: Arm3
+    400008: BoneMaster
+    400010: Box05
+    400012: Box06
+    400014: Box07
+    400016: Box10
+    400018: Box13
+    400020: Box14
+    400022: Box15
+    400024: Box16
+    400026: Box17
+    400028: CarriageDummy02
+    400030: //RootNode
+    400032: Catapult1
+    400034: Catapult2
+    400036: Catapult3
+    400038: Chest Ref
+    400040: Cylinder03
+    400042: Cylinder04
+    400044: Cylinder09
+    400046: Cylinder10
+    400048: Flag1
+    400050: Flag2
+    400052: Flag3a
+    400054: Foot Left Ref
+    400056: Foot Right Ref
+    400058: Hand Left Ref
+    400060: 'Hand Right Ref '
+    400062: Head Ref
+    400064: InnerTarp
+    400066: m3bone_root
+    400068: Object01
+    400070: Object02
+    400072: Object06
+    400074: 'Origin Ref '
+    400076: 'OverHead Ref '
+    400078: PortraitBackdrop
+    400080: Sprite First Ref
+    400082: Sprite Second Ref
+    400084: Sprite Third Ref
+    400086: Tarp
+    400088: tusk01
+    400090: tusk02
+    400092: Weapon Ref
+    2300000: Catapult2
+    3300000: Catapult2
+    4300000: Catapult1
+    4300002: Catapult3
+    4300004: Catapult2
+    7400000: Attack
+    7400002: Take 0010
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Catapult1
+    13700002: Catapult3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Attack
+      takeName: Take 001
+      firstFrame: 300
+      lastFrame: 370
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: Catapult1
+        weight: 1
+      - path: Catapult3
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/BoneMaster
+        weight: 1
+      - path: m3bone_root/CarriageDummy02
+        weight: 1
+      - path: m3bone_root/CarriageDummy02/Arm1
+        weight: 1
+      - path: m3bone_root/CarriageDummy02/Arm1/Arm2
+        weight: 1
+      - path: m3bone_root/CarriageDummy02/Arm1/Arm2/Arm3
+        weight: 1
+      - path: m3bone_root/CarriageDummy02/Arm1/Arm2/Arm3/Object01
+        weight: 1
+      - path: m3bone_root/CarriageDummy02/Arm1/Arm2/Arm3/Object01/Catapult2
+        weight: 1
+      - path: m3bone_root/CarriageDummy02/Arm1/Arm2/Arm3/Weapon Ref
+        weight: 1
+      - path: m3bone_root/CarriageDummy02/Box05
+        weight: 1
+      - path: m3bone_root/CarriageDummy02/Box06
+        weight: 1
+      - path: m3bone_root/CarriageDummy02/Box07
+        weight: 1
+      - path: m3bone_root/CarriageDummy02/Box10
+        weight: 1
+      - path: m3bone_root/CarriageDummy02/Box13
+        weight: 1
+      - path: m3bone_root/CarriageDummy02/Box14
+        weight: 1
+      - path: m3bone_root/CarriageDummy02/Box14/tusk01
+        weight: 1
+      - path: m3bone_root/CarriageDummy02/Box14/tusk01/Object02
+        weight: 1
+      - path: m3bone_root/CarriageDummy02/Box15
+        weight: 1
+      - path: m3bone_root/CarriageDummy02/Box15/Tarp
+        weight: 1
+      - path: m3bone_root/CarriageDummy02/Box15/Tarp/InnerTarp
+        weight: 1
+      - path: m3bone_root/CarriageDummy02/Box16
+        weight: 1
+      - path: m3bone_root/CarriageDummy02/Box17
+        weight: 1
+      - path: m3bone_root/CarriageDummy02/Box17/Flag1
+        weight: 1
+      - path: m3bone_root/CarriageDummy02/Box17/Flag1/Flag2
+        weight: 1
+      - path: m3bone_root/CarriageDummy02/Box17/Flag1/Flag2/Flag3a
+        weight: 1
+      - path: m3bone_root/CarriageDummy02/Box17/Flag1/Flag2/Object06
+        weight: 1
+      - path: m3bone_root/CarriageDummy02/Sprite First Ref
+        weight: 1
+      - path: m3bone_root/CarriageDummy02/Sprite Second Ref
+        weight: 1
+      - path: m3bone_root/CarriageDummy02/Sprite Third Ref
+        weight: 1
+      - path: m3bone_root/CarriageDummy02/tusk02
+        weight: 1
+      - path: m3bone_root/Chest Ref
+        weight: 1
+      - path: m3bone_root/Cylinder03
+        weight: 1
+      - path: m3bone_root/Cylinder04
+        weight: 1
+      - path: m3bone_root/Cylinder09
+        weight: 1
+      - path: m3bone_root/Cylinder10
+        weight: 1
+      - path: m3bone_root/Foot Left Ref
+        weight: 1
+      - path: m3bone_root/Foot Right Ref
+        weight: 1
+      - path: m3bone_root/Hand Left Ref
+        weight: 1
+      - path: 'm3bone_root/Hand Right Ref '
+        weight: 1
+      - path: m3bone_root/Head Ref
+        weight: 1
+      - path: 'm3bone_root/Origin Ref '
+        weight: 1
+      - path: 'm3bone_root/OverHead Ref '
+        weight: 1
+      - path: m3bone_root/PortraitBackdrop
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Take 0010
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 10208
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: Catapult1
+        weight: 1
+      - path: Catapult3
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/BoneMaster
+        weight: 1
+      - path: m3bone_root/CarriageDummy02
+        weight: 1
+      - path: m3bone_root/CarriageDummy02/Arm1
+        weight: 1
+      - path: m3bone_root/CarriageDummy02/Arm1/Arm2
+        weight: 1
+      - path: m3bone_root/CarriageDummy02/Arm1/Arm2/Arm3
+        weight: 1
+      - path: m3bone_root/CarriageDummy02/Arm1/Arm2/Arm3/Object01
+        weight: 1
+      - path: m3bone_root/CarriageDummy02/Arm1/Arm2/Arm3/Object01/Catapult2
+        weight: 1
+      - path: m3bone_root/CarriageDummy02/Arm1/Arm2/Arm3/Weapon Ref
+        weight: 1
+      - path: m3bone_root/CarriageDummy02/Box05
+        weight: 1
+      - path: m3bone_root/CarriageDummy02/Box06
+        weight: 1
+      - path: m3bone_root/CarriageDummy02/Box07
+        weight: 1
+      - path: m3bone_root/CarriageDummy02/Box10
+        weight: 1
+      - path: m3bone_root/CarriageDummy02/Box13
+        weight: 1
+      - path: m3bone_root/CarriageDummy02/Box14
+        weight: 1
+      - path: m3bone_root/CarriageDummy02/Box14/tusk01
+        weight: 1
+      - path: m3bone_root/CarriageDummy02/Box14/tusk01/Object02
+        weight: 1
+      - path: m3bone_root/CarriageDummy02/Box15
+        weight: 1
+      - path: m3bone_root/CarriageDummy02/Box15/Tarp
+        weight: 1
+      - path: m3bone_root/CarriageDummy02/Box15/Tarp/InnerTarp
+        weight: 1
+      - path: m3bone_root/CarriageDummy02/Box16
+        weight: 1
+      - path: m3bone_root/CarriageDummy02/Box17
+        weight: 1
+      - path: m3bone_root/CarriageDummy02/Box17/Flag1
+        weight: 1
+      - path: m3bone_root/CarriageDummy02/Box17/Flag1/Flag2
+        weight: 1
+      - path: m3bone_root/CarriageDummy02/Box17/Flag1/Flag2/Flag3a
+        weight: 1
+      - path: m3bone_root/CarriageDummy02/Box17/Flag1/Flag2/Object06
+        weight: 1
+      - path: m3bone_root/CarriageDummy02/Sprite First Ref
+        weight: 1
+      - path: m3bone_root/CarriageDummy02/Sprite Second Ref
+        weight: 1
+      - path: m3bone_root/CarriageDummy02/Sprite Third Ref
+        weight: 1
+      - path: m3bone_root/CarriageDummy02/tusk02
+        weight: 1
+      - path: m3bone_root/Chest Ref
+        weight: 1
+      - path: m3bone_root/Cylinder03
+        weight: 1
+      - path: m3bone_root/Cylinder04
+        weight: 1
+      - path: m3bone_root/Cylinder09
+        weight: 1
+      - path: m3bone_root/Cylinder10
+        weight: 1
+      - path: m3bone_root/Foot Left Ref
+        weight: 1
+      - path: m3bone_root/Foot Right Ref
+        weight: 1
+      - path: m3bone_root/Hand Left Ref
+        weight: 1
+      - path: 'm3bone_root/Hand Right Ref '
+        weight: 1
+      - path: m3bone_root/Head Ref
+        weight: 1
+      - path: 'm3bone_root/Origin Ref '
+        weight: 1
+      - path: 'm3bone_root/OverHead Ref '
+        weight: 1
+      - path: m3bone_root/PortraitBackdrop
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

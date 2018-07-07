@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: 45cc4172972076644830c83329595408
+timeCreated: 1448376299
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: _M3_Anim_Data
+    100002: Background
+    100004: BannerPiece
+    100006: CrossB09
+    100008: CrossB10
+    100010: CrossB11
+    100012: CrossB12
+    100014: CrossB13
+    100016: CrossB14
+    100018: CrossB15
+    100020: CrossB16
+    100022: CrossB17
+    100024: CrossB18
+    100026: CrossB19
+    100028: CrossB20
+    100030: Cylinder07
+    100032: Cylinder15
+    100034: Dummy_Hammer
+    100036: Flag00a
+    100038: Flag01a
+    100040: Flag02a
+    100042: Forge-Opaque02
+    100044: Hammer
+    100046: Hide05
+    100048: Hide06
+    100050: Hide07
+    100052: Hide08
+    100054: Hide09
+    100056: Hide10
+    100058: HutPost03a07
+    100060: HutPost07a01
+    100062: HutPost17a
+    100064: m3bone_root
+    100066: Mesh02
+    100068: Mesh07
+    100070: Mesh10
+    100072: Mesh14
+    100074: Mesh15
+    100076: Omni01
+    100078: origin ref
+    100080: OtherRope
+    100082: overhead ref
+    100084: rope
+    100086: Skull00a
+    100088: Skull02a
+    100090: sprite first ref
+    100092: Sprite RallyPoint Ref
+    100094: sprite second ref
+    100096: Sprite Small Ref
+    100098: sprite third ref
+    100100: TopHide05
+    100102: TopPost05
+    100104: TopPost06
+    100106: TopPost07
+    100108: TopPost08
+    100110: TopPost09
+    100112: TopPost10
+    100114: TowerFinished
+    100116: //RootNode
+    100118: WatchTower1
+    100120: WatchTower2
+    100122: WatchTower3
+    100124: WatchTower4
+    100126: WatchTower5
+    100128: WatchTower6
+    400000: _M3_Anim_Data
+    400002: Background
+    400004: BannerPiece
+    400006: CrossB09
+    400008: CrossB10
+    400010: CrossB11
+    400012: CrossB12
+    400014: CrossB13
+    400016: CrossB14
+    400018: CrossB15
+    400020: CrossB16
+    400022: CrossB17
+    400024: CrossB18
+    400026: CrossB19
+    400028: CrossB20
+    400030: Cylinder07
+    400032: Cylinder15
+    400034: Dummy_Hammer
+    400036: Flag00a
+    400038: Flag01a
+    400040: Flag02a
+    400042: Forge-Opaque02
+    400044: Hammer
+    400046: Hide05
+    400048: Hide06
+    400050: Hide07
+    400052: Hide08
+    400054: Hide09
+    400056: Hide10
+    400058: HutPost03a07
+    400060: HutPost07a01
+    400062: HutPost17a
+    400064: m3bone_root
+    400066: Mesh02
+    400068: Mesh07
+    400070: Mesh10
+    400072: Mesh14
+    400074: Mesh15
+    400076: Omni01
+    400078: origin ref
+    400080: OtherRope
+    400082: overhead ref
+    400084: rope
+    400086: Skull00a
+    400088: Skull02a
+    400090: sprite first ref
+    400092: Sprite RallyPoint Ref
+    400094: sprite second ref
+    400096: Sprite Small Ref
+    400098: sprite third ref
+    400100: TopHide05
+    400102: TopPost05
+    400104: TopPost06
+    400106: TopPost07
+    400108: TopPost08
+    400110: TopPost09
+    400112: TopPost10
+    400114: TowerFinished
+    400116: //RootNode
+    400118: WatchTower1
+    400120: WatchTower2
+    400122: WatchTower3
+    400124: WatchTower4
+    400126: WatchTower5
+    400128: WatchTower6
+    2300000: WatchTower3
+    2300002: WatchTower4
+    2300004: WatchTower5
+    2300006: WatchTower6
+    3300000: WatchTower3
+    3300002: WatchTower4
+    3300004: WatchTower5
+    3300006: WatchTower6
+    4300000: WatchTower1
+    4300002: WatchTower2
+    4300004: WatchTower3
+    4300006: WatchTower4
+    4300008: WatchTower5
+    4300010: WatchTower6
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: WatchTower1
+    13700002: WatchTower2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

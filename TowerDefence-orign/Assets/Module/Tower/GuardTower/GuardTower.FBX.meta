@@ -1,0 +1,244 @@
+fileFormatVersion: 2
+guid: 52ccb9b3ed38a76469107dc37e30082c
+timeCreated: 1446917431
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: _M3_Anim_Data
+    100002: BurntLumber01
+    100004: Dummy0101
+    100006: Dummy02
+    100008: Dummy03
+    100010: Dummy04
+    100012: Dummy05
+    100014: Dummy06
+    100016: Dummy08
+    100018: Dummy09
+    100020: Dummy10
+    100022: Dummy11
+    100024: ElvenGuardMagicTower1
+    100026: ElvenGuardMagicTower2
+    100028: ElvenGuardMagicTower3
+    100030: ElvenGuardMagicTower4
+    100032: ElvenGuardMagicTower5
+    100034: ElvenGuardMagicTower6
+    100036: //RootNode
+    100038: m3bone_root
+    100040: Mesh02
+    100042: Omni01
+    100044: Origin Ref
+    100046: Overhead Ref
+    100048: Plane30
+    100050: Plane31
+    100052: Plane32
+    100054: PortraitBackground
+    100056: Sphere02
+    100058: Sprite First Ref
+    100060: sprite RallyPoint Ref
+    100062: 'Sprite Second Ref '
+    400000: _M3_Anim_Data
+    400002: BurntLumber01
+    400004: Dummy0101
+    400006: Dummy02
+    400008: Dummy03
+    400010: Dummy04
+    400012: Dummy05
+    400014: Dummy06
+    400016: Dummy08
+    400018: Dummy09
+    400020: Dummy10
+    400022: Dummy11
+    400024: ElvenGuardMagicTower1
+    400026: ElvenGuardMagicTower2
+    400028: ElvenGuardMagicTower3
+    400030: ElvenGuardMagicTower4
+    400032: ElvenGuardMagicTower5
+    400034: ElvenGuardMagicTower6
+    400036: //RootNode
+    400038: m3bone_root
+    400040: Mesh02
+    400042: Omni01
+    400044: Origin Ref
+    400046: Overhead Ref
+    400048: Plane30
+    400050: Plane31
+    400052: Plane32
+    400054: PortraitBackground
+    400056: Sphere02
+    400058: Sprite First Ref
+    400060: sprite RallyPoint Ref
+    400062: 'Sprite Second Ref '
+    2300000: ElvenGuardMagicTower1
+    2300002: ElvenGuardMagicTower2
+    2300004: ElvenGuardMagicTower3
+    2300006: ElvenGuardMagicTower6
+    3300000: ElvenGuardMagicTower1
+    3300002: ElvenGuardMagicTower2
+    3300004: ElvenGuardMagicTower3
+    3300006: ElvenGuardMagicTower6
+    4300000: ElvenGuardMagicTower4
+    4300002: ElvenGuardMagicTower5
+    4300004: ElvenGuardMagicTower1
+    4300006: ElvenGuardMagicTower2
+    4300008: ElvenGuardMagicTower3
+    4300010: ElvenGuardMagicTower6
+    7400000: Take 0010
+    7400002: Take 001
+    9500000: //RootNode
+    13700000: ElvenGuardMagicTower4
+    13700002: ElvenGuardMagicTower5
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 0010
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 122
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: ElvenGuardMagicTower4
+        weight: 1
+      - path: ElvenGuardMagicTower5
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/BurntLumber01
+        weight: 1
+      - path: m3bone_root/BurntLumber01/ElvenGuardMagicTower2
+        weight: 1
+      - path: m3bone_root/Dummy03
+        weight: 1
+      - path: m3bone_root/Dummy03/Dummy02
+        weight: 1
+      - path: m3bone_root/Dummy03/Dummy02/Dummy0101
+        weight: 1
+      - path: m3bone_root/Dummy04
+        weight: 1
+      - path: m3bone_root/Dummy04/Dummy05
+        weight: 1
+      - path: m3bone_root/Dummy04/Dummy05/Dummy06
+        weight: 1
+      - path: m3bone_root/Dummy08
+        weight: 1
+      - path: m3bone_root/Dummy08/Dummy09
+        weight: 1
+      - path: m3bone_root/Dummy08/Dummy09/Dummy10
+        weight: 1
+      - path: m3bone_root/Dummy11
+        weight: 1
+      - path: m3bone_root/Dummy11/Sphere02
+        weight: 1
+      - path: m3bone_root/Mesh02
+        weight: 1
+      - path: m3bone_root/Mesh02/ElvenGuardMagicTower3
+        weight: 1
+      - path: m3bone_root/Mesh02/ElvenGuardMagicTower6
+        weight: 1
+      - path: m3bone_root/Omni01
+        weight: 1
+      - path: m3bone_root/Origin Ref
+        weight: 1
+      - path: m3bone_root/Overhead Ref
+        weight: 1
+      - path: m3bone_root/Plane30
+        weight: 1
+      - path: m3bone_root/Plane31
+        weight: 1
+      - path: m3bone_root/Plane32
+        weight: 1
+      - path: m3bone_root/PortraitBackground
+        weight: 1
+      - path: m3bone_root/PortraitBackground/ElvenGuardMagicTower1
+        weight: 1
+      - path: m3bone_root/Sprite First Ref
+        weight: 1
+      - path: m3bone_root/sprite RallyPoint Ref
+        weight: 1
+      - path: 'm3bone_root/Sprite Second Ref '
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

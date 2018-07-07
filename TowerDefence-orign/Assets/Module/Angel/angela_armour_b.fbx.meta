@@ -1,0 +1,593 @@
+fileFormatVersion: 2
+guid: 1c88a32624c436640a0a8bbec14fa50d
+timeCreated: 1449171886
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: angela
+    100002: angela:Body
+    100004: angela:Body.001
+    100006: angela:Body_MeshPart0
+    100008: angela:Body_MeshPart1
+    100010: angela:Eyebrow001
+    100012: angela:eyelashes02
+    100014: angela:fhair01
+    100016: angela:Low-Poly
+    100018: //RootNode
+    100020: armour
+    100022: bad
+    100024: bad_end
+    100026: chest
+    100028: clavicle.L
+    100030: clavicle.R
+    100032: eye.L
+    100034: eye.L_end
+    100036: eye.R
+    100038: eye.R_end
+    100040: f_index.01.L
+    100042: f_index.01.L_end
+    100044: f_index.01.R
+    100046: f_index.01.R_end
+    100048: f_ring.01.L
+    100050: f_ring.01.L_end
+    100052: f_ring.01.R
+    100054: f_ring.01.R_end
+    100056: foot.L
+    100058: foot.R
+    100060: forearm.L
+    100062: forearm.R
+    100064: hand.L
+    100066: hand.R
+    100068: head
+    100070: hips
+    100072: jaw
+    100074: jaw_end
+    100076: l_wing_1
+    100078: l_wing_2
+    100080: l_wing_3
+    100082: neck
+    100084: r_wing_1
+    100086: r_wing_2
+    100088: r_wing_3
+    100090: shin pads
+    100092: shin.L
+    100094: shin.R
+    100096: spine
+    100098: thigh pads
+    100100: thigh.L
+    100102: thigh.R
+    100104: thumb.02.L
+    100106: thumb.02.R
+    100108: thumb.03.L
+    100110: thumb.03.L_end
+    100112: thumb.03.R
+    100114: thumb.03.R_end
+    100116: toe.L
+    100118: toe.L_end
+    100120: toe.R
+    100122: toe.R_end
+    100124: upper_arm.L
+    100126: upper_arm.R
+    100128: wing.base.L
+    100130: wing.base.R
+    100132: wing.end.L
+    100134: wing.end.L_end
+    100136: wing.end.R
+    100138: wing.end.R_end
+    100140: wing.mid.L
+    100142: wing.mid.R
+    400000: angela
+    400002: angela:Body
+    400004: angela:Body.001
+    400006: angela:Body_MeshPart0
+    400008: angela:Body_MeshPart1
+    400010: angela:Eyebrow001
+    400012: angela:eyelashes02
+    400014: angela:fhair01
+    400016: angela:Low-Poly
+    400018: //RootNode
+    400020: armour
+    400022: bad
+    400024: bad_end
+    400026: chest
+    400028: clavicle.L
+    400030: clavicle.R
+    400032: eye.L
+    400034: eye.L_end
+    400036: eye.R
+    400038: eye.R_end
+    400040: f_index.01.L
+    400042: f_index.01.L_end
+    400044: f_index.01.R
+    400046: f_index.01.R_end
+    400048: f_ring.01.L
+    400050: f_ring.01.L_end
+    400052: f_ring.01.R
+    400054: f_ring.01.R_end
+    400056: foot.L
+    400058: foot.R
+    400060: forearm.L
+    400062: forearm.R
+    400064: hand.L
+    400066: hand.R
+    400068: head
+    400070: hips
+    400072: jaw
+    400074: jaw_end
+    400076: l_wing_1
+    400078: l_wing_2
+    400080: l_wing_3
+    400082: neck
+    400084: r_wing_1
+    400086: r_wing_2
+    400088: r_wing_3
+    400090: shin pads
+    400092: shin.L
+    400094: shin.R
+    400096: spine
+    400098: thigh pads
+    400100: thigh.L
+    400102: thigh.R
+    400104: thumb.02.L
+    400106: thumb.02.R
+    400108: thumb.03.L
+    400110: thumb.03.L_end
+    400112: thumb.03.R
+    400114: thumb.03.R_end
+    400116: toe.L
+    400118: toe.L_end
+    400120: toe.R
+    400122: toe.R_end
+    400124: upper_arm.L
+    400126: upper_arm.R
+    400128: wing.base.L
+    400130: wing.base.R
+    400132: wing.end.L
+    400134: wing.end.L_end
+    400136: wing.end.R
+    400138: wing.end.R_end
+    400140: wing.mid.L
+    400142: wing.mid.R
+    4300000: r_wing_3
+    4300002: r_wing_2
+    4300004: r_wing_1
+    4300006: l_wing_3
+    4300008: l_wing_2
+    4300010: shin pads
+    4300012: thigh pads
+    4300014: l_wing_1
+    4300016: angela:Body.001
+    4300018: angela:eyelashes02
+    4300020: angela:Eyebrow001
+    4300022: angela:Low-Poly
+    4300024: angela:fhair01
+    4300026: angela:Body_MeshPart0
+    4300028: angela:Body_MeshPart1
+    4300030: armour
+    7400000: Death
+    7400002: angela:Body.001Action
+    7400004: angela|angela:Body.001Action
+    7400006: 'Run '
+    7400008: angela:Body.001|angela:Body.001Action
+    9500000: //RootNode
+    13700000: angela:Body.001
+    13700002: angela:Body_MeshPart0
+    13700004: angela:Body_MeshPart1
+    13700006: angela:Eyebrow001
+    13700008: angela:eyelashes02
+    13700010: angela:fhair01
+    13700012: angela:Low-Poly
+    13700014: armour
+    13700016: l_wing_1
+    13700018: l_wing_2
+    13700020: l_wing_3
+    13700022: r_wing_1
+    13700024: r_wing_2
+    13700026: r_wing_3
+    13700028: shin pads
+    13700030: thigh pads
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Death
+      takeName: angelaAction
+      firstFrame: 59
+      lastFrame: 64
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: angela
+        weight: 1
+      - path: angela/hips
+        weight: 1
+      - path: angela/hips/bad
+        weight: 1
+      - path: angela/hips/bad/bad_end
+        weight: 1
+      - path: angela/hips/spine
+        weight: 1
+      - path: angela/hips/spine/chest
+        weight: 1
+      - path: angela/hips/spine/chest/clavicle.L
+        weight: 1
+      - path: angela/hips/spine/chest/clavicle.L/upper_arm.L
+        weight: 1
+      - path: angela/hips/spine/chest/clavicle.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: angela/hips/spine/chest/clavicle.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: angela/hips/spine/chest/clavicle.L/upper_arm.L/forearm.L/hand.L/f_index.01.L
+        weight: 1
+      - path: angela/hips/spine/chest/clavicle.L/upper_arm.L/forearm.L/hand.L/f_index.01.L/f_index.01.L_end
+        weight: 1
+      - path: angela/hips/spine/chest/clavicle.L/upper_arm.L/forearm.L/hand.L/f_ring.01.L
+        weight: 1
+      - path: angela/hips/spine/chest/clavicle.L/upper_arm.L/forearm.L/hand.L/f_ring.01.L/f_ring.01.L_end
+        weight: 1
+      - path: angela/hips/spine/chest/clavicle.L/upper_arm.L/forearm.L/hand.L/thumb.02.L
+        weight: 1
+      - path: angela/hips/spine/chest/clavicle.L/upper_arm.L/forearm.L/hand.L/thumb.02.L/thumb.03.L
+        weight: 1
+      - path: angela/hips/spine/chest/clavicle.L/upper_arm.L/forearm.L/hand.L/thumb.02.L/thumb.03.L/thumb.03.L_end
+        weight: 1
+      - path: angela/hips/spine/chest/clavicle.R
+        weight: 1
+      - path: angela/hips/spine/chest/clavicle.R/upper_arm.R
+        weight: 1
+      - path: angela/hips/spine/chest/clavicle.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: angela/hips/spine/chest/clavicle.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: angela/hips/spine/chest/clavicle.R/upper_arm.R/forearm.R/hand.R/f_index.01.R
+        weight: 1
+      - path: angela/hips/spine/chest/clavicle.R/upper_arm.R/forearm.R/hand.R/f_index.01.R/f_index.01.R_end
+        weight: 1
+      - path: angela/hips/spine/chest/clavicle.R/upper_arm.R/forearm.R/hand.R/f_ring.01.R
+        weight: 1
+      - path: angela/hips/spine/chest/clavicle.R/upper_arm.R/forearm.R/hand.R/f_ring.01.R/f_ring.01.R_end
+        weight: 1
+      - path: angela/hips/spine/chest/clavicle.R/upper_arm.R/forearm.R/hand.R/thumb.02.R
+        weight: 1
+      - path: angela/hips/spine/chest/clavicle.R/upper_arm.R/forearm.R/hand.R/thumb.02.R/thumb.03.R
+        weight: 1
+      - path: angela/hips/spine/chest/clavicle.R/upper_arm.R/forearm.R/hand.R/thumb.02.R/thumb.03.R/thumb.03.R_end
+        weight: 1
+      - path: angela/hips/spine/chest/neck
+        weight: 1
+      - path: angela/hips/spine/chest/neck/head
+        weight: 1
+      - path: angela/hips/spine/chest/neck/head/eye.L
+        weight: 1
+      - path: angela/hips/spine/chest/neck/head/eye.L/eye.L_end
+        weight: 1
+      - path: angela/hips/spine/chest/neck/head/eye.R
+        weight: 1
+      - path: angela/hips/spine/chest/neck/head/eye.R/eye.R_end
+        weight: 1
+      - path: angela/hips/spine/chest/neck/head/jaw
+        weight: 1
+      - path: angela/hips/spine/chest/neck/head/jaw/jaw_end
+        weight: 1
+      - path: angela/hips/spine/wing.base.L
+        weight: 1
+      - path: angela/hips/spine/wing.base.L/wing.mid.L
+        weight: 1
+      - path: angela/hips/spine/wing.base.L/wing.mid.L/wing.end.L
+        weight: 1
+      - path: angela/hips/spine/wing.base.L/wing.mid.L/wing.end.L/wing.end.L_end
+        weight: 1
+      - path: angela/hips/spine/wing.base.R
+        weight: 1
+      - path: angela/hips/spine/wing.base.R/wing.mid.R
+        weight: 1
+      - path: angela/hips/spine/wing.base.R/wing.mid.R/wing.end.R
+        weight: 1
+      - path: angela/hips/spine/wing.base.R/wing.mid.R/wing.end.R/wing.end.R_end
+        weight: 1
+      - path: angela/hips/thigh.L
+        weight: 1
+      - path: angela/hips/thigh.L/shin.L
+        weight: 1
+      - path: angela/hips/thigh.L/shin.L/foot.L
+        weight: 1
+      - path: angela/hips/thigh.L/shin.L/foot.L/toe.L
+        weight: 1
+      - path: angela/hips/thigh.L/shin.L/foot.L/toe.L/toe.L_end
+        weight: 1
+      - path: angela/hips/thigh.R
+        weight: 1
+      - path: angela/hips/thigh.R/shin.R
+        weight: 1
+      - path: angela/hips/thigh.R/shin.R/foot.R
+        weight: 1
+      - path: angela/hips/thigh.R/shin.R/foot.R/toe.R
+        weight: 1
+      - path: angela/hips/thigh.R/shin.R/foot.R/toe.R/toe.R_end
+        weight: 1
+      - path: angela:Body
+        weight: 1
+      - path: angela:Body/angela:Body_MeshPart0
+        weight: 1
+      - path: angela:Body/angela:Body_MeshPart1
+        weight: 1
+      - path: angela:Body.001
+        weight: 1
+      - path: angela:Eyebrow001
+        weight: 1
+      - path: angela:eyelashes02
+        weight: 1
+      - path: angela:fhair01
+        weight: 1
+      - path: angela:Low-Poly
+        weight: 1
+      - path: armour
+        weight: 1
+      - path: l_wing_1
+        weight: 1
+      - path: l_wing_2
+        weight: 1
+      - path: l_wing_3
+        weight: 1
+      - path: r_wing_1
+        weight: 1
+      - path: r_wing_2
+        weight: 1
+      - path: r_wing_3
+        weight: 1
+      - path: shin pads
+        weight: 1
+      - path: thigh pads
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: 'Run '
+      takeName: angela|angelaAction
+      firstFrame: 0
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: angela
+        weight: 1
+      - path: angela/hips
+        weight: 1
+      - path: angela/hips/bad
+        weight: 1
+      - path: angela/hips/bad/bad_end
+        weight: 1
+      - path: angela/hips/spine
+        weight: 1
+      - path: angela/hips/spine/chest
+        weight: 1
+      - path: angela/hips/spine/chest/clavicle.L
+        weight: 1
+      - path: angela/hips/spine/chest/clavicle.L/upper_arm.L
+        weight: 1
+      - path: angela/hips/spine/chest/clavicle.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: angela/hips/spine/chest/clavicle.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: angela/hips/spine/chest/clavicle.L/upper_arm.L/forearm.L/hand.L/f_index.01.L
+        weight: 1
+      - path: angela/hips/spine/chest/clavicle.L/upper_arm.L/forearm.L/hand.L/f_index.01.L/f_index.01.L_end
+        weight: 1
+      - path: angela/hips/spine/chest/clavicle.L/upper_arm.L/forearm.L/hand.L/f_ring.01.L
+        weight: 1
+      - path: angela/hips/spine/chest/clavicle.L/upper_arm.L/forearm.L/hand.L/f_ring.01.L/f_ring.01.L_end
+        weight: 1
+      - path: angela/hips/spine/chest/clavicle.L/upper_arm.L/forearm.L/hand.L/thumb.02.L
+        weight: 1
+      - path: angela/hips/spine/chest/clavicle.L/upper_arm.L/forearm.L/hand.L/thumb.02.L/thumb.03.L
+        weight: 1
+      - path: angela/hips/spine/chest/clavicle.L/upper_arm.L/forearm.L/hand.L/thumb.02.L/thumb.03.L/thumb.03.L_end
+        weight: 1
+      - path: angela/hips/spine/chest/clavicle.R
+        weight: 1
+      - path: angela/hips/spine/chest/clavicle.R/upper_arm.R
+        weight: 1
+      - path: angela/hips/spine/chest/clavicle.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: angela/hips/spine/chest/clavicle.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: angela/hips/spine/chest/clavicle.R/upper_arm.R/forearm.R/hand.R/f_index.01.R
+        weight: 1
+      - path: angela/hips/spine/chest/clavicle.R/upper_arm.R/forearm.R/hand.R/f_index.01.R/f_index.01.R_end
+        weight: 1
+      - path: angela/hips/spine/chest/clavicle.R/upper_arm.R/forearm.R/hand.R/f_ring.01.R
+        weight: 1
+      - path: angela/hips/spine/chest/clavicle.R/upper_arm.R/forearm.R/hand.R/f_ring.01.R/f_ring.01.R_end
+        weight: 1
+      - path: angela/hips/spine/chest/clavicle.R/upper_arm.R/forearm.R/hand.R/thumb.02.R
+        weight: 1
+      - path: angela/hips/spine/chest/clavicle.R/upper_arm.R/forearm.R/hand.R/thumb.02.R/thumb.03.R
+        weight: 1
+      - path: angela/hips/spine/chest/clavicle.R/upper_arm.R/forearm.R/hand.R/thumb.02.R/thumb.03.R/thumb.03.R_end
+        weight: 1
+      - path: angela/hips/spine/chest/neck
+        weight: 1
+      - path: angela/hips/spine/chest/neck/head
+        weight: 1
+      - path: angela/hips/spine/chest/neck/head/eye.L
+        weight: 1
+      - path: angela/hips/spine/chest/neck/head/eye.L/eye.L_end
+        weight: 1
+      - path: angela/hips/spine/chest/neck/head/eye.R
+        weight: 1
+      - path: angela/hips/spine/chest/neck/head/eye.R/eye.R_end
+        weight: 1
+      - path: angela/hips/spine/chest/neck/head/jaw
+        weight: 1
+      - path: angela/hips/spine/chest/neck/head/jaw/jaw_end
+        weight: 1
+      - path: angela/hips/spine/wing.base.L
+        weight: 1
+      - path: angela/hips/spine/wing.base.L/wing.mid.L
+        weight: 1
+      - path: angela/hips/spine/wing.base.L/wing.mid.L/wing.end.L
+        weight: 1
+      - path: angela/hips/spine/wing.base.L/wing.mid.L/wing.end.L/wing.end.L_end
+        weight: 1
+      - path: angela/hips/spine/wing.base.R
+        weight: 1
+      - path: angela/hips/spine/wing.base.R/wing.mid.R
+        weight: 1
+      - path: angela/hips/spine/wing.base.R/wing.mid.R/wing.end.R
+        weight: 1
+      - path: angela/hips/spine/wing.base.R/wing.mid.R/wing.end.R/wing.end.R_end
+        weight: 1
+      - path: angela/hips/thigh.L
+        weight: 1
+      - path: angela/hips/thigh.L/shin.L
+        weight: 1
+      - path: angela/hips/thigh.L/shin.L/foot.L
+        weight: 1
+      - path: angela/hips/thigh.L/shin.L/foot.L/toe.L
+        weight: 1
+      - path: angela/hips/thigh.L/shin.L/foot.L/toe.L/toe.L_end
+        weight: 1
+      - path: angela/hips/thigh.R
+        weight: 1
+      - path: angela/hips/thigh.R/shin.R
+        weight: 1
+      - path: angela/hips/thigh.R/shin.R/foot.R
+        weight: 1
+      - path: angela/hips/thigh.R/shin.R/foot.R/toe.R
+        weight: 1
+      - path: angela/hips/thigh.R/shin.R/foot.R/toe.R/toe.R_end
+        weight: 1
+      - path: angela:Body
+        weight: 1
+      - path: angela:Body/angela:Body_MeshPart0
+        weight: 1
+      - path: angela:Body/angela:Body_MeshPart1
+        weight: 1
+      - path: angela:Body.001
+        weight: 1
+      - path: angela:Eyebrow001
+        weight: 1
+      - path: angela:eyelashes02
+        weight: 1
+      - path: angela:fhair01
+        weight: 1
+      - path: angela:Low-Poly
+        weight: 1
+      - path: armour
+        weight: 1
+      - path: l_wing_1
+        weight: 1
+      - path: l_wing_2
+        weight: 1
+      - path: l_wing_3
+        weight: 1
+      - path: r_wing_1
+        weight: 1
+      - path: r_wing_2
+        weight: 1
+      - path: r_wing_3
+        weight: 1
+      - path: shin pads
+        weight: 1
+      - path: thigh pads
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

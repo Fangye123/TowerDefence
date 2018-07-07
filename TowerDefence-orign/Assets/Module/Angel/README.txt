@@ -1,0 +1,19 @@
+- Import FBX into Unity
+- Textures are as follows:
+	- brown_eye.png => EYE ALBEDO
+	- diffuse_black.png => HAIR ALBEDO
+	- normals.png => HAIR NORMAL MAP
+	- eyelashes02.png => EYELASHES ALBEDO
+	- eyebrow.png => EYEBROW ALBEDO
+	- young_lightskinned_female_diffuse.png => SKIN ALBEDO
+	- mail-tex.png => CHAINMAIL ALBEDO
+	- mail-normal.jpg => CHAINMAIL NORMAL
+- Material Properties (Rendering mode, Metallic, Smoothness)
+	- Skin => opaque, 0 metallic, 0 smoothness
+	- Chainmail => opaque, low metallic, 0 smoothness
+	- Armour => opaque, Grey albedo, high metallic, high smoothness
+	- Eyebrows and Hair => cutout, 0 metallic, low smoothness
+	- Eyes => cutout, 0 metallic, high smoothness
+- Animations
+	- Idle => Frames 0 to 41
+	- Dying => 59 to 65

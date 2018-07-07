@@ -1,0 +1,488 @@
+fileFormatVersion: 2
+guid: 5399fa0ad614aad44a41d7ae3068713a
+timeCreated: 1446918973
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: _M3_Anim_Data
+    100002: Baloon
+    100004: Chest Ref
+    100006: Deck
+    100008: Dummy FrontLeftBag
+    100010: Dummy FrontRightBag
+    100012: Dummy RearLeftBag
+    100014: Dummy RearRightBag
+    100016: Foot Left Ref
+    100018: Foot Right Ref
+    100020: GoblinZeppelin1
+    100022: GoblinZeppelin2
+    100024: GoblinZeppelin3
+    100026: Hand Left Ref
+    100028: Hand Right Ref
+    100030: Head Ref
+    100032: m3bone_root
+    100034: 'Origin Ref '
+    100036: 'OverHead Ref '
+    100038: Rope1L
+    100040: Rope1R
+    100042: Rope2L
+    100044: Rope2R
+    100046: Rope3L
+    100048: Rope3R
+    100050: Rope4L
+    100052: Rope4R
+    100054: SailL
+    100056: SailPiece1L
+    100058: SailPiece1R
+    100060: SailPiece2L
+    100062: SailPiece2R
+    100064: SailR
+    100066: SandBagFrontL
+    100068: SandBagFrontR
+    100070: SandBagRearL
+    100072: SandBagRearR
+    100074: Sprite First Ref
+    100076: Sprite Second Ref
+    100078: Sprite Third Ref
+    100080: //RootNode
+    400000: _M3_Anim_Data
+    400002: Baloon
+    400004: Chest Ref
+    400006: Deck
+    400008: Dummy FrontLeftBag
+    400010: Dummy FrontRightBag
+    400012: Dummy RearLeftBag
+    400014: Dummy RearRightBag
+    400016: Foot Left Ref
+    400018: Foot Right Ref
+    400020: GoblinZeppelin1
+    400022: GoblinZeppelin2
+    400024: GoblinZeppelin3
+    400026: Hand Left Ref
+    400028: Hand Right Ref
+    400030: Head Ref
+    400032: m3bone_root
+    400034: 'Origin Ref '
+    400036: 'OverHead Ref '
+    400038: Rope1L
+    400040: Rope1R
+    400042: Rope2L
+    400044: Rope2R
+    400046: Rope3L
+    400048: Rope3R
+    400050: Rope4L
+    400052: Rope4R
+    400054: SailL
+    400056: SailPiece1L
+    400058: SailPiece1R
+    400060: SailPiece2L
+    400062: SailPiece2R
+    400064: SailR
+    400066: SandBagFrontL
+    400068: SandBagFrontR
+    400070: SandBagRearL
+    400072: SandBagRearR
+    400074: Sprite First Ref
+    400076: Sprite Second Ref
+    400078: Sprite Third Ref
+    400080: //RootNode
+    2300000: GoblinZeppelin2
+    3300000: GoblinZeppelin2
+    4300000: GoblinZeppelin1
+    4300002: GoblinZeppelin3
+    4300004: GoblinZeppelin2
+    7400000: Run
+    7400002: Death
+    7400004: Take 001
+    9500000: //RootNode
+    13700000: GoblinZeppelin1
+    13700002: GoblinZeppelin3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Run
+      takeName: Take 001
+      firstFrame: 320
+      lastFrame: 358
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: GoblinZeppelin1
+        weight: 1
+      - path: GoblinZeppelin3
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Baloon
+        weight: 1
+      - path: m3bone_root/Baloon/Chest Ref
+        weight: 1
+      - path: m3bone_root/Baloon/Deck
+        weight: 1
+      - path: m3bone_root/Baloon/Deck/SandBagFrontL
+        weight: 1
+      - path: m3bone_root/Baloon/Deck/SandBagFrontL/Dummy FrontLeftBag
+        weight: 1
+      - path: m3bone_root/Baloon/Deck/SandBagFrontR
+        weight: 1
+      - path: m3bone_root/Baloon/Deck/SandBagFrontR/Dummy FrontRightBag
+        weight: 1
+      - path: m3bone_root/Baloon/Deck/SandBagRearL
+        weight: 1
+      - path: m3bone_root/Baloon/Deck/SandBagRearL/Dummy RearLeftBag
+        weight: 1
+      - path: m3bone_root/Baloon/Deck/SandBagRearR
+        weight: 1
+      - path: m3bone_root/Baloon/Deck/SandBagRearR/Dummy RearRightBag
+        weight: 1
+      - path: m3bone_root/Baloon/Foot Left Ref
+        weight: 1
+      - path: m3bone_root/Baloon/Foot Right Ref
+        weight: 1
+      - path: m3bone_root/Baloon/GoblinZeppelin2
+        weight: 1
+      - path: m3bone_root/Baloon/Hand Left Ref
+        weight: 1
+      - path: m3bone_root/Baloon/Hand Right Ref
+        weight: 1
+      - path: m3bone_root/Baloon/Head Ref
+        weight: 1
+      - path: m3bone_root/Baloon/Rope1L
+        weight: 1
+      - path: m3bone_root/Baloon/Rope1R
+        weight: 1
+      - path: m3bone_root/Baloon/Rope2L
+        weight: 1
+      - path: m3bone_root/Baloon/Rope2R
+        weight: 1
+      - path: m3bone_root/Baloon/Rope3L
+        weight: 1
+      - path: m3bone_root/Baloon/Rope3R
+        weight: 1
+      - path: m3bone_root/Baloon/Rope4L
+        weight: 1
+      - path: m3bone_root/Baloon/Rope4R
+        weight: 1
+      - path: m3bone_root/Baloon/SailL
+        weight: 1
+      - path: m3bone_root/Baloon/SailL/SailPiece1L
+        weight: 1
+      - path: m3bone_root/Baloon/SailL/SailPiece2L
+        weight: 1
+      - path: m3bone_root/Baloon/SailR
+        weight: 1
+      - path: m3bone_root/Baloon/SailR/SailPiece1R
+        weight: 1
+      - path: m3bone_root/Baloon/SailR/SailPiece2R
+        weight: 1
+      - path: m3bone_root/Baloon/Sprite First Ref
+        weight: 1
+      - path: m3bone_root/Baloon/Sprite Second Ref
+        weight: 1
+      - path: m3bone_root/Baloon/Sprite Third Ref
+        weight: 1
+      - path: 'm3bone_root/Origin Ref '
+        weight: 1
+      - path: 'm3bone_root/OverHead Ref '
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Death
+      takeName: Take 001
+      firstFrame: 1245
+      lastFrame: 1290
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: GoblinZeppelin1
+        weight: 1
+      - path: GoblinZeppelin3
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Baloon
+        weight: 1
+      - path: m3bone_root/Baloon/Chest Ref
+        weight: 1
+      - path: m3bone_root/Baloon/Deck
+        weight: 1
+      - path: m3bone_root/Baloon/Deck/SandBagFrontL
+        weight: 1
+      - path: m3bone_root/Baloon/Deck/SandBagFrontL/Dummy FrontLeftBag
+        weight: 1
+      - path: m3bone_root/Baloon/Deck/SandBagFrontR
+        weight: 1
+      - path: m3bone_root/Baloon/Deck/SandBagFrontR/Dummy FrontRightBag
+        weight: 1
+      - path: m3bone_root/Baloon/Deck/SandBagRearL
+        weight: 1
+      - path: m3bone_root/Baloon/Deck/SandBagRearL/Dummy RearLeftBag
+        weight: 1
+      - path: m3bone_root/Baloon/Deck/SandBagRearR
+        weight: 1
+      - path: m3bone_root/Baloon/Deck/SandBagRearR/Dummy RearRightBag
+        weight: 1
+      - path: m3bone_root/Baloon/Foot Left Ref
+        weight: 1
+      - path: m3bone_root/Baloon/Foot Right Ref
+        weight: 1
+      - path: m3bone_root/Baloon/GoblinZeppelin2
+        weight: 1
+      - path: m3bone_root/Baloon/Hand Left Ref
+        weight: 1
+      - path: m3bone_root/Baloon/Hand Right Ref
+        weight: 1
+      - path: m3bone_root/Baloon/Head Ref
+        weight: 1
+      - path: m3bone_root/Baloon/Rope1L
+        weight: 1
+      - path: m3bone_root/Baloon/Rope1R
+        weight: 1
+      - path: m3bone_root/Baloon/Rope2L
+        weight: 1
+      - path: m3bone_root/Baloon/Rope2R
+        weight: 1
+      - path: m3bone_root/Baloon/Rope3L
+        weight: 1
+      - path: m3bone_root/Baloon/Rope3R
+        weight: 1
+      - path: m3bone_root/Baloon/Rope4L
+        weight: 1
+      - path: m3bone_root/Baloon/Rope4R
+        weight: 1
+      - path: m3bone_root/Baloon/SailL
+        weight: 1
+      - path: m3bone_root/Baloon/SailL/SailPiece1L
+        weight: 1
+      - path: m3bone_root/Baloon/SailL/SailPiece2L
+        weight: 1
+      - path: m3bone_root/Baloon/SailR
+        weight: 1
+      - path: m3bone_root/Baloon/SailR/SailPiece1R
+        weight: 1
+      - path: m3bone_root/Baloon/SailR/SailPiece2R
+        weight: 1
+      - path: m3bone_root/Baloon/Sprite First Ref
+        weight: 1
+      - path: m3bone_root/Baloon/Sprite Second Ref
+        weight: 1
+      - path: m3bone_root/Baloon/Sprite Third Ref
+        weight: 1
+      - path: 'm3bone_root/Origin Ref '
+        weight: 1
+      - path: 'm3bone_root/OverHead Ref '
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 5208
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: GoblinZeppelin1
+        weight: 1
+      - path: GoblinZeppelin3
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Baloon
+        weight: 1
+      - path: m3bone_root/Baloon/Chest Ref
+        weight: 1
+      - path: m3bone_root/Baloon/Deck
+        weight: 1
+      - path: m3bone_root/Baloon/Deck/SandBagFrontL
+        weight: 1
+      - path: m3bone_root/Baloon/Deck/SandBagFrontL/Dummy FrontLeftBag
+        weight: 1
+      - path: m3bone_root/Baloon/Deck/SandBagFrontR
+        weight: 1
+      - path: m3bone_root/Baloon/Deck/SandBagFrontR/Dummy FrontRightBag
+        weight: 1
+      - path: m3bone_root/Baloon/Deck/SandBagRearL
+        weight: 1
+      - path: m3bone_root/Baloon/Deck/SandBagRearL/Dummy RearLeftBag
+        weight: 1
+      - path: m3bone_root/Baloon/Deck/SandBagRearR
+        weight: 1
+      - path: m3bone_root/Baloon/Deck/SandBagRearR/Dummy RearRightBag
+        weight: 1
+      - path: m3bone_root/Baloon/Foot Left Ref
+        weight: 1
+      - path: m3bone_root/Baloon/Foot Right Ref
+        weight: 1
+      - path: m3bone_root/Baloon/GoblinZeppelin2
+        weight: 1
+      - path: m3bone_root/Baloon/Hand Left Ref
+        weight: 1
+      - path: m3bone_root/Baloon/Hand Right Ref
+        weight: 1
+      - path: m3bone_root/Baloon/Head Ref
+        weight: 1
+      - path: m3bone_root/Baloon/Rope1L
+        weight: 1
+      - path: m3bone_root/Baloon/Rope1R
+        weight: 1
+      - path: m3bone_root/Baloon/Rope2L
+        weight: 1
+      - path: m3bone_root/Baloon/Rope2R
+        weight: 1
+      - path: m3bone_root/Baloon/Rope3L
+        weight: 1
+      - path: m3bone_root/Baloon/Rope3R
+        weight: 1
+      - path: m3bone_root/Baloon/Rope4L
+        weight: 1
+      - path: m3bone_root/Baloon/Rope4R
+        weight: 1
+      - path: m3bone_root/Baloon/SailL
+        weight: 1
+      - path: m3bone_root/Baloon/SailL/SailPiece1L
+        weight: 1
+      - path: m3bone_root/Baloon/SailL/SailPiece2L
+        weight: 1
+      - path: m3bone_root/Baloon/SailR
+        weight: 1
+      - path: m3bone_root/Baloon/SailR/SailPiece1R
+        weight: 1
+      - path: m3bone_root/Baloon/SailR/SailPiece2R
+        weight: 1
+      - path: m3bone_root/Baloon/Sprite First Ref
+        weight: 1
+      - path: m3bone_root/Baloon/Sprite Second Ref
+        weight: 1
+      - path: m3bone_root/Baloon/Sprite Third Ref
+        weight: 1
+      - path: 'm3bone_root/Origin Ref '
+        weight: 1
+      - path: 'm3bone_root/OverHead Ref '
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

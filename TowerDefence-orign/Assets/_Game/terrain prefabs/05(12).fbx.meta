@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: a8481b8bad677194a8060b16dd4a93b7
+timeCreated: 1448817694
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: AcDbSubDMesh_248
+    100004: AcDbSubDMesh_248_MeshPart0
+    100006: AcDbSubDMesh_248_MeshPart1
+    100008: AcDbSubDMesh_248_MeshPart10
+    100010: AcDbSubDMesh_248_MeshPart11
+    100012: AcDbSubDMesh_248_MeshPart12
+    100014: AcDbSubDMesh_248_MeshPart13
+    100016: AcDbSubDMesh_248_MeshPart14
+    100018: AcDbSubDMesh_248_MeshPart15
+    100020: AcDbSubDMesh_248_MeshPart16
+    100022: AcDbSubDMesh_248_MeshPart17
+    100024: AcDbSubDMesh_248_MeshPart18
+    100026: AcDbSubDMesh_248_MeshPart19
+    100028: AcDbSubDMesh_248_MeshPart2
+    100030: AcDbSubDMesh_248_MeshPart20
+    100032: AcDbSubDMesh_248_MeshPart21
+    100034: AcDbSubDMesh_248_MeshPart22
+    100036: AcDbSubDMesh_248_MeshPart3
+    100038: AcDbSubDMesh_248_MeshPart4
+    100040: AcDbSubDMesh_248_MeshPart5
+    100042: AcDbSubDMesh_248_MeshPart6
+    100044: AcDbSubDMesh_248_MeshPart7
+    100046: AcDbSubDMesh_248_MeshPart8
+    100048: AcDbSubDMesh_248_MeshPart9
+    100050: Crane Up/Left
+    100052: default01
+    100054: Front
+    100056: Orbit
+    100058: Right
+    100060: Skull_2010_DWG
+    100062: Top
+    400000: //RootNode
+    400002: AcDbSubDMesh_248
+    400004: AcDbSubDMesh_248_MeshPart0
+    400006: AcDbSubDMesh_248_MeshPart1
+    400008: AcDbSubDMesh_248_MeshPart10
+    400010: AcDbSubDMesh_248_MeshPart11
+    400012: AcDbSubDMesh_248_MeshPart12
+    400014: AcDbSubDMesh_248_MeshPart13
+    400016: AcDbSubDMesh_248_MeshPart14
+    400018: AcDbSubDMesh_248_MeshPart15
+    400020: AcDbSubDMesh_248_MeshPart16
+    400022: AcDbSubDMesh_248_MeshPart17
+    400024: AcDbSubDMesh_248_MeshPart18
+    400026: AcDbSubDMesh_248_MeshPart19
+    400028: AcDbSubDMesh_248_MeshPart2
+    400030: AcDbSubDMesh_248_MeshPart20
+    400032: AcDbSubDMesh_248_MeshPart21
+    400034: AcDbSubDMesh_248_MeshPart22
+    400036: AcDbSubDMesh_248_MeshPart3
+    400038: AcDbSubDMesh_248_MeshPart4
+    400040: AcDbSubDMesh_248_MeshPart5
+    400042: AcDbSubDMesh_248_MeshPart6
+    400044: AcDbSubDMesh_248_MeshPart7
+    400046: AcDbSubDMesh_248_MeshPart8
+    400048: AcDbSubDMesh_248_MeshPart9
+    400050: Crane Up/Left
+    400052: default01
+    400054: Front
+    400056: Orbit
+    400058: Right
+    400060: Skull_2010_DWG
+    400062: Top
+    2300000: AcDbSubDMesh_248_MeshPart0
+    2300002: AcDbSubDMesh_248_MeshPart1
+    2300004: AcDbSubDMesh_248_MeshPart10
+    2300006: AcDbSubDMesh_248_MeshPart11
+    2300008: AcDbSubDMesh_248_MeshPart12
+    2300010: AcDbSubDMesh_248_MeshPart13
+    2300012: AcDbSubDMesh_248_MeshPart14
+    2300014: AcDbSubDMesh_248_MeshPart15
+    2300016: AcDbSubDMesh_248_MeshPart16
+    2300018: AcDbSubDMesh_248_MeshPart17
+    2300020: AcDbSubDMesh_248_MeshPart18
+    2300022: AcDbSubDMesh_248_MeshPart19
+    2300024: AcDbSubDMesh_248_MeshPart2
+    2300026: AcDbSubDMesh_248_MeshPart20
+    2300028: AcDbSubDMesh_248_MeshPart21
+    2300030: AcDbSubDMesh_248_MeshPart22
+    2300032: AcDbSubDMesh_248_MeshPart3
+    2300034: AcDbSubDMesh_248_MeshPart4
+    2300036: AcDbSubDMesh_248_MeshPart5
+    2300038: AcDbSubDMesh_248_MeshPart6
+    2300040: AcDbSubDMesh_248_MeshPart7
+    2300042: AcDbSubDMesh_248_MeshPart8
+    2300044: AcDbSubDMesh_248_MeshPart9
+    3300000: AcDbSubDMesh_248_MeshPart0
+    3300002: AcDbSubDMesh_248_MeshPart1
+    3300004: AcDbSubDMesh_248_MeshPart10
+    3300006: AcDbSubDMesh_248_MeshPart11
+    3300008: AcDbSubDMesh_248_MeshPart12
+    3300010: AcDbSubDMesh_248_MeshPart13
+    3300012: AcDbSubDMesh_248_MeshPart14
+    3300014: AcDbSubDMesh_248_MeshPart15
+    3300016: AcDbSubDMesh_248_MeshPart16
+    3300018: AcDbSubDMesh_248_MeshPart17
+    3300020: AcDbSubDMesh_248_MeshPart18
+    3300022: AcDbSubDMesh_248_MeshPart19
+    3300024: AcDbSubDMesh_248_MeshPart2
+    3300026: AcDbSubDMesh_248_MeshPart20
+    3300028: AcDbSubDMesh_248_MeshPart21
+    3300030: AcDbSubDMesh_248_MeshPart22
+    3300032: AcDbSubDMesh_248_MeshPart3
+    3300034: AcDbSubDMesh_248_MeshPart4
+    3300036: AcDbSubDMesh_248_MeshPart5
+    3300038: AcDbSubDMesh_248_MeshPart6
+    3300040: AcDbSubDMesh_248_MeshPart7
+    3300042: AcDbSubDMesh_248_MeshPart8
+    3300044: AcDbSubDMesh_248_MeshPart9
+    4300000: AcDbSubDMesh_248_MeshPart0
+    4300002: AcDbSubDMesh_248_MeshPart1
+    4300004: AcDbSubDMesh_248_MeshPart2
+    4300006: AcDbSubDMesh_248_MeshPart3
+    4300008: AcDbSubDMesh_248_MeshPart4
+    4300010: AcDbSubDMesh_248_MeshPart5
+    4300012: AcDbSubDMesh_248_MeshPart6
+    4300014: AcDbSubDMesh_248_MeshPart7
+    4300016: AcDbSubDMesh_248_MeshPart8
+    4300018: AcDbSubDMesh_248_MeshPart9
+    4300020: AcDbSubDMesh_248_MeshPart10
+    4300022: AcDbSubDMesh_248_MeshPart11
+    4300024: AcDbSubDMesh_248_MeshPart12
+    4300026: AcDbSubDMesh_248_MeshPart13
+    4300028: AcDbSubDMesh_248_MeshPart14
+    4300030: AcDbSubDMesh_248_MeshPart15
+    4300032: AcDbSubDMesh_248_MeshPart16
+    4300034: AcDbSubDMesh_248_MeshPart17
+    4300036: AcDbSubDMesh_248_MeshPart18
+    4300038: AcDbSubDMesh_248_MeshPart19
+    4300040: AcDbSubDMesh_248_MeshPart20
+    4300042: AcDbSubDMesh_248_MeshPart21
+    4300044: AcDbSubDMesh_248_MeshPart22
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
